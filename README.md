@@ -1,1 +1,1 @@
-# this is jsust a test repo
+# this is just a test repo
